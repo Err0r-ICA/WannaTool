@@ -82,7 +82,7 @@ enda='\033[0m'
     printf ''
     printf ''
 echo -e $W"╭━━━━━━━╮"$C "╔════════════════════════╗"
-echo -e $W"┃$W ● ══$W  ┃"$C "║$R WannaLeak Tool Hacking$C ║"$G "████$W████$R████"
+echo -e $W"┃$W ● ══$W  ┃"$C "║$R WannaTool Hacking Repo$C ║"$G "████$W████$R████"
 echo -e $W"┃$R███████$W┃"$C "║$G Use Wisely, Given by $C  ║"$G "████$W████$R████"
 echo -e $W"┃$R███████$W┃"$C "║$B ITALIA CYBR ARMY$C       ║"$G "████$W████$R████"
 echo -e $W"┃$R███████$W┃"$C "║$Y WE are NOT Responsible$C ║"$G "████$W████$R████"
