@@ -1,0 +1,43 @@
+clear
+R='\x1b[1;91m'
+G='\x1b[1;92m'
+B='\x1b[1;94m'
+Y='\x1b[1;93m'
+C='\x1b[1;96m'
+M='\x1b[1;95m'
+W='\x1b[1;97m'
+D='\x1b[0m'
+endc='\E[0m'
+enda= ''
+echo ''
+echo -e $W "╭━━━━━━━╮"$C "╔════════════════════════╗"
+echo -e $W "┃$W ● ══$W  ┃"$C "║$R WannaTool Hacking Repo$C ║"$G "████$W████$R████"
+echo -e $W "┃$R███████$W┃"$C "║$G Use Wisely, Given by $C  ║"$G "████$W████$R████"
+echo -e $W "┃$R███████$W┃"$C "║$B ITALIA CYBR ARMY$C       ║"$G "████$W████$R████"
+echo -e $W "┃$R███████$W┃"$C "║$Y WE are NOT Responsible$C ║"$G "████$W████$R████"
+echo -e $W "┃$W███████$W┃"$C "║$M Of Any Misuse of This$C  ║"
+echo -e $W "┃$W███████$W┃"$C "╚════════════════════════╝"$G "ITALIA$W CYBER$R ARMY"
+echo -e $W "┃$G███████$W┃"
+echo -e $W "┃$G███████$W┃"$M "╔════════════════════════╗"
+echo -e $W "┃$G███████$W┃"$M "║$C Create : $G 30/03/2020$M   ║"
+echo -e $W "┃$W   ○$W   ┃"$M "║$G Author : $M ERR0R $M       ║"
+echo -e $W "╰━━━━━━━╯"$M "╚════════════════════════╝"
+echo
+echo
+echo -e $G"╔══════════╗"$C
+read -p "║ Key Login : " key
+echo -e $G"╚══════════╝"
+if [ $key = "ItaliaCyberArmy" ]
+then
+echo -e $M"╔════════╗"
+echo -e $M"║$G SUCSES$M ║"
+echo -e $M"╚════════╝"
+sleep 3
+bash LICENSE
+else
+echo -e $Y"╔═════════════════════════════════════╗"
+echo -e $Y"║$R THE PASSWORD IS WRONG !! TRY AGAIN ...$Y ║"
+echo -e $Y"╚═════════════════════════════════════╝"
+sleep 3
+bash login.sh
+fi

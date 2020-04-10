@@ -1,0 +1,401 @@
+clear
+R='\x1b[1;91m'
+G='\x1b[1;92m'
+B='\x1b[1;94m'
+Y='\x1b[1;93m'
+C='\x1b[1;96m'
+M='\x1b[1;95m'
+W='\x1b[1;97m'
+D='\x1b[0m'
+abs='\033[38;5;200;48;5;255m'
+alp='\033[38;5;21;48;5;49m'
+endc='\E[0m'
+enda='\033[0m'
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... / '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... \ '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... / '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... \ '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... / '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... \ '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... / '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... \ '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... / '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... \ '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... - '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;34mE  \033[1;32mA  \033[1;34mS \033[1;35m E    \033[1;93mW   \033[1;32mA  \033[1;34mI  \033[1;93mT ... / '
+    sleep 0.2
+    clear
+    printf ' \033[1;93mP \033[1;31m L  \033[1;94mE  \033[1;92mA  \033[1;94mS \033[1;95m E    \033[1;93mW   \033[1;92mA  \033[1;94mI  \033[1;93mT .... ! \n\n'
+    sleep 1
+    printf ''
+    printf ''
+echo -e $W"╭━━━━━━━╮"$C "╔════════════════════════╗"
+echo -e $W"┃$W ● ══$W  ┃"$C "║$R WannaLeak Tool Hacking$C ║"$G "████$W████$R████"
+echo -e $W"┃$R███████$W┃"$C "║$G Use Wisely, Given by $C  ║"$G "████$W████$R████"
+echo -e $W"┃$R███████$W┃"$C "║$B ITALIA CYBR ARMY$C       ║"$G "████$W████$R████"
+echo -e $W"┃$R███████$W┃"$C "║$Y WE are NOT Responsible$C ║"$G "████$W████$R████"
+echo -e $W"┃$W███████$W┃"$C "║$M Of Any Misuse of This$C  ║"
+echo -e $W"┃$W███████$W┃"$C "╚════════════════════════╝"$G "ITALIA$W CYBER$R ARMY"
+echo -e $W"┃$G███████$W┃"
+echo -e $W"┃$G███████$W┃"$M "╔════════════════════════╗"
+echo -e $W"┃$G███████$W┃"$M "║$C Create : $G 30/03/2020$M   ║"
+echo -e $W"┃$W   ○$W   ┃"$M "║$G Author : $M ERR0R $M       ║"
+echo -e $W"╰━━━━━━━╯"$M "╚════════════════════════╝"
+echo ''
+echo ''
+sleep 1
+printf "\033[1;95m╭──────────•◈•──────────╮\n"
+printf "\033[1;92m      ╦┌┬┐┌─┐┬  ┬┌─┐    \n"
+printf "\033[1;92m      ║ │ ├─┤│  │├─┤    \n"
+printf "\033[1;92m      ╩ ┴ ┴ ┴┴─┘┴┴ ┴    \n"
+sleep 1
+printf "\033[1;97m     ╔═╗┬ ┬┌┐ ┌─┐┬─┐    \n"
+printf "\033[1;97m     ║  └┬┘├┴┐├┤ ├┬┘    \n"
+printf "\033[1;97m     ╚═╝ ┴ └─┘└─┘┴└─    \n"
+sleep 1
+printf "\033[1;91m       ╔═╗┬─┐┌┬┐┬ ┬     \n"
+printf "\033[1;91m       ╠═╣├┬┘│││└┬┘     \n"
+printf "\033[1;91m       ╩ ╩┴└─┴ ┴ ┴      \n"
+printf "\033[1;95m╰──────────•◈•──────────╯\n"
+printf "\n\n"
+sleep 1
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+printf "      \033[1;92m▇▇▇▇▇▇▇▇▇▇▇\033[1;97m▇▇▇▇▇▇▇▇▇▇▇\033[1;91m▇▇▇▇▇▇▇▇▇▇▇\n"
+sleep 1
+printf "\n"
+printf "     \033[1;91m*▒▒▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒*\n"
+printf "    \033[1;92m*+▒▒▒▒▒▒▒▒▒▒█▒█▒█▒▒▒█▒█▒█▒▒▒▒▒▒▒▒▒+*\n"
+printf "   \033[1;93m*+*▒▒▒▒▒▒▒▒███▒█▒█▒███▒█▒█▒▒▒▒▒▒▒▒▒*+*\n"
+printf "  \033[1;94m*+*+▒▒▒▒▒▒▒▒█▒▒▒█▒█▒█▒▒▒█▒█▒▒▒▒▒▒▒▒▒+*+*\n"
+printf " \033[1;95m*+*+*▒▒▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒*+*+*\n"
+sleep 0.5
+ printf "\n"
+printf "\033[47;95m############################################"$enda" \n"
+sleep 2
+echo ""
+echo -e $G           "╔═════════════╗"
+echo -e $G           "║$C YOUR DEVICE$G ║"
+echo -e $G"╔╩═════════════╩══╗"$C
+neofetch | grep "Host" | awk {'print $2,$3,$4,$5,$6,$7,$8,$9,$10'}
+echo -e $G"╚═════════════════╝"
+sleep 1
+echo ""
+echo -e $M           "╔═══════════╗"
+echo -e $M           "║$W IP ADRESS$M ║"
+echo -e $M"╔╩═══════════╩══╗"$W
+curl -s "https://api.evozi.com/ip_ui" | tr -d "
+" | grep -Po '(?<=<div class="title">).*?(?=<)'
+echo -e $M"╚═══════════════╝"
+sleep 1
+echo ""
+echo -e $Y           "╔══════════╗"
+echo -e $Y           "║$B LOCATION$Y ║"
+echo -e $Y"╔╩══════════╩═════════════════════╗"$B
+curl -s "https://api.evozi.com/ip_ui" | tr -d "
+" | grep -Po '(?<=<p><small>).*?(?=<)' | sed '$d'
+echo -e $Y"╚═════════════════════════════════╝"
+sleep 1
+echo ""
+echo -e $C           "╔════════════════╗"
+echo -e $C           "║$G DEVICE VERSION$C ║"
+echo -e $C"╔╩════════════════╩═════╗"$G
+neofetch | grep "OS" | awk {'print $2,$3,$4,$5,$6,$7,$8,$9,$10'}
+echo -e $C"╚═══════════════════════╝"
+sleep 1
+echo ""
+echo ""
+echo -e $G"╔════╗"
+echo -e $G"║$C 01$G ║"$abs "Dark Facebook"$enda
+echo -e $G"║$C 02$G ║"$alp "Script Deface Creator$i (NiceScript)"$enda
+echo -e $G"║$C 03$G ║"$abs "Admin Finder$i (Mencari Adlog)"$enda
+echo -e $G"║$C 04$G ║"$alp "Encrypt Bash"$enda
+echo -e $G"║$C 05$G ║"$abs "Encrypt Python"$enda
+echo -e $G"║$C 06$G ║"$alp "Deface Tebas Index Easy Method$i (Webdav)"$enda
+echo -e $G"║$C 07$G ║"$abs "Left & Right Button on Termux"$enda
+echo -e $G"║$C 08$G ║"$alp "Bok*p Tools :v"$enda
+echo -e $G"║$C 09$G ║"$abs "A-Rat"$enda
+echo -e $G"║$C 10$G ║"$alp "SQL Map"$enda
+echo -e $G"╚════╝"
+sleep 1
+echo ""
+echo -e $W"╔════╗"
+echo -e $W"║$C 11$W ║"$abs "Google Translate"$enda
+echo -e $W"║$C 12$W ║"$alp "Snake$i (Game)$me (Use a Keyboard)"$enda
+echo -e $W"║$C 13$W ║"$abs "Solitaire$i (Game)"$enda
+echo -e $W"║$C 14$W ║"$alp "Spam Call$i (Limit 3×)"$enda
+echo -e $W"║$C 15$W ║"$abs "Moon Buggy$i (Game)"$enda
+echo -e $W"║$C 16$W ║"$alp "vBug$i (Virus)"$enda
+echo -e $W"║$C 17$W ║"$abs "DDoS Hammer$me (Website Stressing)"$enda
+echo -e $W"║$C 18$W ║"$alp "Virtex Tool$i (Download Virtex)"$enda
+echo -e $W"║$C 19$W ║"$abs "Spam Chat WhatsApp"$enda
+echo -e $W"║$C 20$W ║"$alp "Decompyle Python"$enda
+echo -e $W"╚════╝"
+sleep 1
+echo ""
+echo -e $R"╔════╗"
+echo -e $R"║$C 21$R ║"$abs "Decompyle Bash Shell"$enda
+echo -e $R"║$C 22$R ║"$alp "Install Metasploit"$enda
+echo -e $R"║$C 23$R ║"$abs "Hack CCTV"$enda
+echo -e $R"║$C 24$R ║"$alp "Latest Earthquake Information"$enda
+echo -e $R"║$C 25$R ║"$abs "Play Music on Termux"$enda
+echo -e $R"║$C 26$R ║"$alp "Report Facebook Account"$enda
+echo -e $R"║$C 27$R ║"$abs "Prayer Schedule"$enda
+echo -e $R"║$C 28$R ║"$alp "Auto Visitor Blogger"$enda
+echo -e $R"║$C 29$R ║"$abs "Coming Soon..."$enda
+echo -e $R"║$C 30$R ║"$alp "Coming Soon..."$enda
+echo -e $R"╚════╝"
+sleep 1
+echo -e $G
+python2 advertisement.py
+echo ""
+echo -e $B"╔════╗"
+echo -e $B"║$R 00$B ║"$R "Exit / Keluar tools"
+echo -e $B"╚════╝"
+echo ""
+echo -e $G"╔-═-═-═$W Choose$G═-═-═-═"
+read -p "╚-═-═-═-═-═-═-═-═-═-═-═-═-═══➢➢ " pil
+if [ $pil = '1' ]
+then
+clear
+python2 SoDark.py
+fi
+if [ $pil = '2' ]
+then
+clear
+python2 create.py
+fi
+if [ $pil = '3' ]
+then
+clear
+python2 admin.py
+fi
+if [ $pil = '4' ]
+then
+clear
+python2 decbash.py
+fi
+if [ $pil = '5' ]
+then
+clear
+python2 maling.py
+fi
+if [ $pil = '6' ]
+then
+clear
+sh TEBAS.sh
+fi
+if [ $pil = '7' ]
+then
+clear
+php Aktif.php
+fi
+if [ $pil = '8' ]
+then
+clear
+sh coli.sh
+fi
+if [ $pil = '9' ]
+then
+clear
+git clone https://github.com/Xi4u7/A-Rat.git
+cd A-Rat
+python2 A-Rat.py
+fi
+if [ $pil = '10' ]
+then
+clear
+git clone https://github.com/sqlmapproject/sqlmap
+cd sqlmap
+python2 sqlmap.py
+fi
+if [ $pil = '11' ]
+then
+clear
+python2 Translate.py
+fi
+if [ $pil = '12' ]
+then
+clear
+python2 ular.py
+fi
+if [ $pil = '13' ]
+then
+clear
+apt install tty-solitaire
+ttysolitaire
+fi
+if [ $pil = '14' ]
+then
+clear
+php telpon.php
+fi
+if [ $pil = '15' ]
+then
+clear
+pkg install moon-buggy
+moon-buggy
+fi
+if [ $pil = '16' ]
+then
+clear
+python2 vbug.py
+fi
+if [ $pil = '17' ]
+then
+clear
+python2 hammer.py
+fi
+if [ $pil = '18' ]
+then
+clear
+sh Viridae.sh
+fi
+if [ $pil = '19' ]
+then
+clear
+php WA.php
+fi
+if [ $pil = '20' ]
+then
+clear
+python2 tai.py
+fi
+if [ $pil = '21' ]
+then
+clear
+python2 bash.py
+fi
+if [ $pil = '22' ]
+then
+clear
+echo -e $Y"INSTALL METASPLOIT REQUIRES STORAGE AROUND 500 Mb "
+sleep 2
+echo ''
+echo -e $Y"MAKE SURE YOUR STORAGE IS ENOUGH & NETWORK DOES NOT SLOW "$G
+echo ''
+read -p "TEKAN ENTER JIKA SIAP MENGINSTALL METASPLOIT"
+pkg install metasploit
+msfconsole
+fi
+if [ $pil = '23' ]
+then
+clear
+git clone https://github.com/storiku/HackCCTV
+cd HackCCTV
+pip2 install requests
+python2 HCCTV.py
+fi
+if [ $pil = '24' ]
+then
+clear
+python2 Gempa.py
+fi
+if [ $pil = '25' ]
+then
+clear
+echo -e $G "Install Package..."
+sleep 3
+pip install mps_youtube
+pip install youtube_dl
+pkg install mps
+mpsyt
+fi
+if [ $pil = '26' ]
+then
+clear
+python2 report.py
+fi
+if [ $pil = '27' ]
+then
+clear
+pip2 install -r module.txt
+python2 sholat.py
+fi
+if [ $pil = '28' ]
+then
+clear
+git clone https://github.com/Jevil36239/BlogVisitor
+cd BlogVisitor
+python2 install.py
+fi
+if [ $pil = '29' ]
+then
+echo -e $Y "Coming Soon..."
+sleep 3
+bash TEXT
+fi
+if [ $pil = '30' ]
+then
+echo -e $Y "Coming Soon..."
+sleep 3
+bash TEXT
+fi
+if [ $pil = '00' ]
+then
+echo -e $G"╔══════════════════════╗"
+echo -e $G"║$W Thanks For Using >_<$G ║"
+echo -e $G"╚══════════════════════╝"
+sleep 2
+echo -e $C"╔═══════════╗"
+echo -e $C"║$W See You..$C ║"
+echo -e $C"╚═══════════╝"
+exit
+fi
