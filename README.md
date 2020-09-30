@@ -1,5 +1,5 @@
-# WannaTool
-Script collection
+![logo](https://i.postimg.cc/cL3TL6Sy/Screenshot-20200930-070301-Chrome.jpg)
+
 
 ### Installing WannaTool
 ```
