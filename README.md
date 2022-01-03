@@ -1,8 +1,8 @@
-# WannaTool
+# 💥 WannaTool 💥
 
 ![logo](https://i.postimg.cc/cL3TL6Sy/Screenshot-20200930-070301-Chrome.jpg)
 
-### Installing WannaTool
+## 💿 Installation 💿
 ```
 apt upgrade -y;apt update -y
 git clone https://github.com/Err0r-ICA/WannaTool
@@ -11,11 +11,11 @@ chmod +x *
 bash WannaTool
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/nprf6qxr/IMG-20200425-142854-219.jpg) 
 ![Screenshot](https://i.postimg.cc/gGq9hsqM/IMG-20200425-142911-516.jpg) 
 
-### Connect with me:
+### 👤 Connect with me 👤
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://t.me/kalit3rmux"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <a href="https://www.facebook.com/termuxxhacking"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
