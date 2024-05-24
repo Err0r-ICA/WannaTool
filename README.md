@@ -1,6 +1,6 @@
 # 💥 WannaTool 💥
 
-![logo](https://i.postimg.cc/cL3TL6Sy/Screenshot-20200930-070301-Chrome.jpg)
+![logo](https://i.postimg.cc/Sy1ymKRW/OIG1-1.jpg)
 
 ## 💿 Installation 💿
 ```
@@ -17,9 +17,7 @@ bash WannaTool
 
 ### 👤 Connect with me 👤
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://t.me/Cyb3r_Drag0nz"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-<a href="https://m.facebook.com/profile.php/?id=61551681886488"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://instagram.com/termux_hacking"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://t.me/hacking1337stuff"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 
 <br><br><p align="center">
   <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
