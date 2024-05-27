@@ -1,5 +1,3 @@
-# 💥 WannaTool 💥
-
 ![logo](https://i.postimg.cc/Sy1ymKRW/OIG1-1.jpg)
 
 ## 💿 Installation 💿
